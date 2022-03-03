@@ -1,7 +1,9 @@
 <img src='header.png' alt="banner"></img>
 
-## I am currently doing freelance consultanting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices.
-
+<p align="center">
+I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices.
+</p>
+  
 ### I am also:
 - ⭐ A co-organizer for [R-Ladies St. Louis](https://www.meetup.com/rladies-st-louis/)  
 - 🌟 An organizer of the [POWER](https://www.womeninedresearch.com/) Data Management in Education Research Hub
