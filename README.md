@@ -1,7 +1,8 @@
 <img src='header.png' alt="banner"></img>
 
 <p align="center">
-I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices.
+I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices. 
+You can find my resume [here](https://cghlewis.github.io/resume/).
 </p>
   
 ### I am also:
@@ -37,8 +38,6 @@ I am currently doing freelance consulting in data management while taking time t
 - Workflow organization
 - Building research participant tracking systems
 - Setting up data entry structures
-
-You can find my resume [here](https://cghlewis.github.io/resume/)
 
 If you are looking for help in any of these areas, feel free to reach out to me at cgh.lewis@gmail.com!
 
