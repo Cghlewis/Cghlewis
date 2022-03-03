@@ -40,3 +40,5 @@ I am currently doing freelance consulting in data management while taking time t
 - Setting up data entry structures
 
 If you are looking for help in any of these areas, feel free to reach out to me at cgh.lewis@gmail.com!
+
+**Header photo built with Canva.
