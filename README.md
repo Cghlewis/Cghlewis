@@ -16,7 +16,7 @@ I am currently doing freelance consulting in data management while taking time t
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 
 ### Past projects include:
-- R Flexdashboard displaying school closure trends collected from Google Trends
+- [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
 - R Flexdashboard displaying sample crm data
 - [Descriptive summaries tables](https://github.com/Cghlewis/descriptive-summary-tables)
 
