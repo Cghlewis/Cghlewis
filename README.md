@@ -12,8 +12,8 @@ I am currently doing freelance consulting in data management while taking time t
 
 ### Current projects include:
 - Data Management in Large-Scale Education Research book
-- Data Management in Large-Scale Education Research [website](https://cghlewis.github.io/mpsi-data-training/)
-- Education Data Wrangling Functions [Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
+- [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
+- [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 
 ### Past projects include:
 - R Flexdashboard displaying school closure trends collected from Google Trends
