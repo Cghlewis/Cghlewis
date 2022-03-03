@@ -2,7 +2,6 @@
 
 <p align="center">
 I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices. 
-You can find my resume [here](https://cghlewis.github.io/resume/).
 </p>
   
 ### I am also:
@@ -15,6 +14,7 @@ You can find my resume [here](https://cghlewis.github.io/resume/).
 - Data Management in Large-Scale Education Research book
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
+- [My resume](https://cghlewis.github.io/resume/).
 
 ### Past projects include:
 - [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
