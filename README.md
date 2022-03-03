@@ -27,7 +27,6 @@ I am currently doing freelance consulting in data management while taking time t
 - [Research Data Management Documentation](https://cghlewis.github.io/mpsi-training1/)
 - [Cleaning Messy Data in R, Presentation for R-Ladies St. Louis](https://github.com/Cghlewis/R-Ladies-STL-Cleaning-Data-R)
 
-
 ### I am interested in helping education researchers with the following types of work:
 
 - Research data management best practices training
@@ -38,6 +37,8 @@ I am currently doing freelance consulting in data management while taking time t
 - Workflow organization
 - Building research participant tracking systems
 - Setting up data entry structures
+
+You can find my resume [here](https://cghlewis.github.io/resume/)
 
 If you are looking for help in any of these areas, feel free to reach out to me at cgh.lewis@gmail.com!
 
