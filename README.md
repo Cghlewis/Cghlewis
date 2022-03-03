@@ -17,7 +17,7 @@ I am currently doing freelance consulting in data management while taking time t
 
 ### Past projects include:
 - [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
-- R Flexdashboard displaying sample crm data
+- [R Flexdashboard displaying sample crm data](https://github.com/Cghlewis/crm_example)
 - [Descriptive summaries tables](https://github.com/Cghlewis/descriptive-summary-tables)
 
 ### Past presentations include:
