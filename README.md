@@ -15,7 +15,8 @@ I am currently doing freelance consulting in data management while taking time t
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 - [Resume](https://cghlewis.github.io/resume/)
-- Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)
+- Consulting with [R for the Rest of Us](httsps://rfortherestofus.com/about/)
+- Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
 
 ### Past projects include:
 - [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
