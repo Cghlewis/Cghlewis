@@ -18,6 +18,7 @@ I am currently doing freelance consulting in data management while taking time t
 - [Resume](https://cghlewis.github.io/resume/)
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
 - Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
+- Research Data Management consulting with [Math Thinking and Learning Lab](http://www.mtllabfsu.com/)
 
 ### Past projects include:
 - [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
