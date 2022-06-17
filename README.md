@@ -27,6 +27,7 @@ I am currently doing freelance consulting in data management while taking time t
 - [Descriptive summaries tables](https://github.com/Cghlewis/descriptive-summary-tables)
 
 ### Past presentations include:
+- [Schoen Lab Data Management Overview Series](https://cghlewis.github.io/schoen-workshop-series/)  
 - [POWER Data Management Hub First Meetup](https://cghlewis.github.io/power_datamgmt_jan_2022/)
 - [Building a Style Guide](https://cghlewis.github.io/mpsi-training3/#1)
 - [Data Collection Structures](https://cghlewis.github.io/mpsi-training2/#1)
