@@ -1,9 +1,9 @@
 <img src='header.png' alt="banner"></img>
 
 <p align="center">
-I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices. You can find my resume [here](https://github.com/Cghlewis/simple-resume/blob/main/simple_resume_cl/simple_resume_cl.pdf). 
+I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices. You can find my resume <a href="https://github.com/Cghlewis/simple-resume/blob/main/simple_resume_cl/simple_resume_cl.pdf">here</a>
 </p>
-  
+
 ### I am also:
 - ⭐ A co-organizer for [R-Ladies St. Louis](https://www.meetup.com/rladies-st-louis/)  
 - 🌟 An organizer of the [POWER](https://www.womeninedresearch.com/) Data Management in Education Research Hub
@@ -15,7 +15,6 @@ I am currently doing freelance consulting in data management while taking time t
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
-- [Resume](https://cghlewis.github.io/resume/)
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
 - Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
 - Research Data Management consulting with [Math Thinking and Learning Lab](http://www.mtllabfsu.com/)
