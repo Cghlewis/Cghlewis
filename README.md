@@ -1,7 +1,7 @@
 <img src='header.png' alt="banner"></img>
 
 <p align="center">
-I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices. You can find my resume <a href="https://github.com/Cghlewis/simple-resume/blob/main/simple_resume_cl/simple_resume_cl.pdf">here</a>
+I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices. You can find my resume <a href="https://github.com/Cghlewis/simple-resume/blob/main/simple_resume_cl/simple_resume_cl.pdf">here</a>.
 </p>
 
 ### I am also:
