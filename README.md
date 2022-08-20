@@ -16,10 +16,10 @@ I am currently doing freelance consulting in data management while taking time t
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
-- Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
 - Research Data Management consulting with [Math Thinking and Learning Lab](http://www.mtllabfsu.com/)
 
 ### Past projects include:
+- Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
 - Teaching Assistant for *What They Forgot to Teach You About R* for [rstudio::conf(2022)](https://www.rstudio.com/conference/)
 - [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
 - [R Flexdashboard displaying sample crm data](https://github.com/Cghlewis/crm_example)
