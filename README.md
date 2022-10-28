@@ -17,6 +17,7 @@ I am currently doing freelance consulting in data management while taking time t
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
 - Research Data Management consulting with [Math Thinking and Learning Lab](http://www.mtllabfsu.com/)
+- Research Data Management consulting with [Virginia Literacy Partnerships](https://literacy.virginia.edu/)
 
 ### Past projects include:
 - Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
