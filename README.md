@@ -11,7 +11,7 @@ I am currently doing freelance consulting in data management while taking time t
 - ☀️ A lover of spending time outdoors hiking, camping, and exploring
 
 ### Current projects include:
-- [Data Management in Large-Scale Education Research book](https://docs.google.com/document/d/1qsFxOZ61EXjbLQe0ug0hip84ZwHBMjSk4zUA7ueXRhg/edit)
+- [Data Management in Large-Scale Education Research book](https://datamgmtinedresearch.com/)
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
