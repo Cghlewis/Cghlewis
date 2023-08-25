@@ -7,24 +7,24 @@ I am currently doing freelance consulting in data management while taking time t
 ### I am also:
 - ⭐ A co-organizer for [R-Ladies St. Louis](https://www.meetup.com/rladies-st-louis/)  
 - 🌟 An organizer of the [POWER](https://www.womeninedresearch.com/) Data Management in Education Research Hub
-- 💛 A mom of a preschooler and rescue puppy
+- 💛 A mom of a kindergartner and rescue puppy
 - ☀️ A lover of spending time outdoors hiking, camping, and exploring
 
 ### Current projects include:
 - [Data Management in Large-Scale Education Research book](https://datamgmtinedresearch.com/)
-- [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
-- [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
-- Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
 - Research Data Management consulting with [Math Thinking and Learning Lab](http://www.mtllabfsu.com/)
 - Research Data Management consulting with [Virginia Literacy Partnerships](https://literacy.virginia.edu/)
 
 ### Past projects include:
+- Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
 - Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
 - Teaching Assistant for *What They Forgot to Teach You About R* for [rstudio::conf(2022)](https://www.rstudio.com/conference/)
 - [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
 - [R Flexdashboard displaying sample crm data](https://github.com/Cghlewis/crm_example)
 - [Descriptive summaries tables](https://github.com/Cghlewis/descriptive-summary-tables)
+- [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
+- [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
 
 ### Past presentations include:
 - [Data Management Workflows for Education Research Studies](https://docs.google.com/presentation/d/1OYi3E0C3DoB3aBPDErJZiUh9WL1kUgWbvoNtXWe47qM)
