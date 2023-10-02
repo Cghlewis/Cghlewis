@@ -20,7 +20,7 @@ I am currently doing freelance consulting in data management while taking time t
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
 - Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
 - Teaching Assistant for *What They Forgot to Teach You About R* for [rstudio::conf(2022)](https://www.rstudio.com/conference/)
-- [R Flexdashboard displaying school closure trends collected from Google Trends](https://gtrends-school.streamlinedatascience.io/)
+- [R Flexdashboard displaying school closure trends collected from Google Trends](https://github.com/Cghlewis/gtrends_school_closure/tree/main)
 - [R Flexdashboard displaying sample crm data](https://github.com/Cghlewis/crm_example)
 - [Descriptive summaries tables](https://github.com/Cghlewis/descriptive-summary-tables)
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
