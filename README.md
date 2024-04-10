@@ -23,9 +23,6 @@ I am currently doing freelance consulting in data management while taking time t
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
 - Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
 - Teaching Assistant for *What They Forgot to Teach You About R* for [rstudio::conf(2022)](https://www.rstudio.com/conference/)
-- [R Flexdashboard displaying school closure trends collected from Google Trends](https://github.com/Cghlewis/gtrends_school_closure/tree/main)
-- [R Flexdashboard displaying sample crm data](https://github.com/Cghlewis/crm_example)
-- [Descriptive summaries tables](https://github.com/Cghlewis/descriptive-summary-tables)
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
 
@@ -34,8 +31,6 @@ I am currently doing freelance consulting in data management while taking time t
 - [Data Management Workflows for Education Research Studies](https://docs.google.com/presentation/d/1OYi3E0C3DoB3aBPDErJZiUh9WL1kUgWbvoNtXWe47qM)
 - [10 Common Data Management Mistakes](https://docs.google.com/presentation/d/1pzOmdbwQzGcDDpyFvYgkqbxm-BbEM-RBqI3pE9iJq-c)
 - [R-Ladies NYC Lightning Talk](https://cghlewis.github.io/rladies-nyc-codebook-comparison/)
-- [POWER Data Management Hub First Meetup](https://cghlewis.github.io/power_datamgmt_jan_2022/)
-- [MPSI Data Management Orientation](https://docs.google.com/presentation/d/1KWKql3De9SSNC2xJfauJeoZYVrIE4OoXZFu5kQqeY1U/edit?usp=sharing)  
 - [Building a Style Guide](https://cghlewis.github.io/mpsi-training3/#1)
 - [Data Collection Structures](https://cghlewis.github.io/mpsi-training2/#1)
 - [Research Data Management Documentation](https://cghlewis.github.io/mpsi-training1/)
