@@ -27,6 +27,7 @@ I am currently doing freelance consulting in data management while taking time t
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
 
 ### Past presentations include:
+- [Data Cleaning for Data Sharing Using R](https://cghlewis.github.io/ncme-data-cleaning-workshop/)
 - [Cleaning Medical Data with R](https://shannonpileggi.github.io/rmedicine-data-cleaning-2023/)
 - [Data Management Workflows for Education Research Studies](https://docs.google.com/presentation/d/1OYi3E0C3DoB3aBPDErJZiUh9WL1kUgWbvoNtXWe47qM)
 - [10 Common Data Management Mistakes](https://docs.google.com/presentation/d/1pzOmdbwQzGcDDpyFvYgkqbxm-BbEM-RBqI3pE9iJq-c)
