@@ -6,7 +6,7 @@ I am currently doing freelance consulting in data management while taking time t
 
 ### I am also:
 - ⭐ A co-organizer for [R-Ladies St. Louis](https://www.meetup.com/rladies-st-louis/)  
-- 🌟 An organizer of the [POWER](https://www.womeninedresearch.com/) Data Management in Education Research Hub
+- 🌟 A co-organizer of the [POWER](https://osf.io/ap3tk/) Data Management in Education Research Hub
 - 💛 A mom of a kindergartner and rescue puppy
 - ☀️ A lover of spending time outdoors hiking, camping, and exploring
 
