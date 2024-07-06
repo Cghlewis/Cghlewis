@@ -1,30 +1,30 @@
 <img src='header.png' alt="banner"></img>
 
 <p align="center">
-I am currently doing freelance consulting in data management while taking time to work on a book titled Data Management in Large-Scale Education Research. I worked as a research data manager for 8 years in the field of education and enjoy working with researchers to help them learn and implement best practices. You can find my resume <a href="https://github.com/Cghlewis/simple-resume/blob/main/simple_resume_cl.pdf">here</a>.
+I am an independent data management consultant, providing research data management consulting, training, and direct services to improve organizational workflows (<a href="cghlewis.com">cghlewis.com</a>). I recently published a book with CRC Press titled <a href= "https://datamgmtinedresearch.com/">Data Management in Large-Scale Education Research</a>.
 </p>
 
 ### I am also:
 - ⭐ A co-organizer for [R-Ladies St. Louis](https://www.meetup.com/rladies-st-louis/)  
 - 🌟 A co-organizer of the [POWER](https://osf.io/ap3tk/) Data Management in Education Research Hub
-- 💛 A mom of a kindergartner and rescue puppy
+- 💛 A mom of a kiddo and rescue puppy
 - ☀️ A lover of spending time outdoors hiking, camping, and exploring
 
 ### Current projects include:
-- [Data Management in Large-Scale Education Research book](https://datamgmtinedresearch.com/)
-- [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 - Research Data Management consulting with [Math Thinking and Learning Lab](http://www.mtllabfsu.com/)
 - Research Data Management consulting with [Virginia Literacy Partnerships](https://literacy.virginia.edu/)
+- Research Data Management consulting with [HEART Lab](https://heartlab.psych.utah.edu/)
 - Workshop instructor for an NIH R25 funded series titled [Data Management for Data Sharing](https://reporter.nih.gov/search/uObjqYwJ_EuWnUrlOOX0CA/project-details/10829613)
-
+   
 ### Past projects include:
 - Consulting with [Building Stories with Data](https://www.cararthompson.com/)
 - Provided a workshop series to the [TECH Lab](https://www.cresp.udel.edu/affiliated-labs/teacher-emotions-characteristics-health-lab/)
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
-- Research Data Management consulting with [Schoen Lab](https://www.schoenresearch.com/)
+- Research Data Management consulting and training with [Schoen Lab](https://www.schoenresearch.com/)
 - Teaching Assistant for *What They Forgot to Teach You About R* for [rstudio::conf(2022)](https://www.rstudio.com/conference/)
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
+- [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 
 ### Past presentations include:
 - [Data Cleaning for Data Sharing Using R](https://cghlewis.github.io/ncme-data-cleaning-workshop/)
