@@ -27,6 +27,7 @@ I am an independent data management consultant, providing research data manageme
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 
 ### Past presentations include:
+- [Data Management in Large-Scale Education Research](https://docs.google.com/presentation/d/12kQEpabBKc0vv7jh9nlOLzh5CeJ9LPZ0TdHxu1rVFNI)
 - [Data Cleaning for Data Sharing Using R](https://cghlewis.github.io/ncme-data-cleaning-workshop/)
 - [Cleaning Medical Data with R](https://shannonpileggi.github.io/rmedicine-data-cleaning-2023/)
 - [Data Management Workflows for Education Research Studies](https://docs.google.com/presentation/d/1OYi3E0C3DoB3aBPDErJZiUh9WL1kUgWbvoNtXWe47qM)
