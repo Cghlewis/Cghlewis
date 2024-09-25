@@ -14,6 +14,7 @@ I am an independent data management consultant, providing research data manageme
 - Research Data Management consulting with [Math Thinking and Learning Lab](http://www.mtllabfsu.com/)
 - Research Data Management consulting with [Virginia Literacy Partnerships](https://literacy.virginia.edu/)
 - Research Data Management consulting with [HEART Lab](https://heartlab.psych.utah.edu/)
+- Research Data Management consulting with [Social Care in Chronic Disease Collaborative](https://www.sccdcollaborative.org/new-about-page)
 - Workshop instructor for an NIH R25 funded series titled [Data Management for Data Sharing](https://reporter.nih.gov/search/uObjqYwJ_EuWnUrlOOX0CA/project-details/10829613)
    
 ### Past projects include:
