@@ -15,19 +15,22 @@ I am an independent data management consultant, providing research data manageme
 - Research Data Management consulting with [Virginia Literacy Partnerships](https://literacy.virginia.edu/)
 - Research Data Management consulting with [HEART Lab](https://heartlab.psych.utah.edu/)
 - Research Data Management consulting with [Social Care in Chronic Disease Collaborative](https://www.sccdcollaborative.org/new-about-page)
+- Research Data Management consulting with [Tennessee Center for the Study and Treatment of Dyslexia](https://dyslexia.mtsu.edu/)
+- Research Data Management consulting and training with [Schoen Lab](https://www.schoenresearch.com/)
 - Workshop instructor for an NIH R25 funded series titled [Data Management for Data Sharing](https://reporter.nih.gov/search/uObjqYwJ_EuWnUrlOOX0CA/project-details/10829613)
    
 ### Past projects include:
 - Consulting with [Building Stories with Data](https://www.cararthompson.com/)
-- Provided a workshop series to the [TECH Lab](https://www.cresp.udel.edu/affiliated-labs/teacher-emotions-characteristics-health-lab/)
+- Provided a workshop series for the [TECH Lab](https://www.cresp.udel.edu/affiliated-labs/teacher-emotions-characteristics-health-lab/)
+- Provided a workshop series for the [Boness Addictions Lab](https://bonessaddictionslab.wordpress.com/about/)
 - Consulting with [R for the Rest of Us](https://rfortherestofus.com/about/)  
-- Research Data Management consulting and training with [Schoen Lab](https://www.schoenresearch.com/)
 - Teaching Assistant for *What They Forgot to Teach You About R* for [rstudio::conf(2022)](https://www.rstudio.com/conference/)
 - [Data Management in Large-Scale Education Research website](https://cghlewis.github.io/mpsi-data-training/)
 - [Comparison of R packages used for codebooks](https://github.com/Cghlewis/codebook-pkg-comparison)
 - [Education Data Wrangling Functions Wiki](https://github.com/Cghlewis/data-wrangling-functions/wiki)
 
 ### Past presentations include:
+- [Starting Your Freelance Career](https://cghlewis.com/talk/eds_freelance/)
 - [Data Management in Large-Scale Education Research](https://docs.google.com/presentation/d/12kQEpabBKc0vv7jh9nlOLzh5CeJ9LPZ0TdHxu1rVFNI)
 - [Data Cleaning for Data Sharing Using R](https://cghlewis.github.io/ncme-data-cleaning-workshop/)
 - [Cleaning Medical Data with R](https://shannonpileggi.github.io/rmedicine-data-cleaning-2023/)
