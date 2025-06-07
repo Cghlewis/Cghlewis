@@ -7,7 +7,7 @@ I am an independent data management consultant, providing research data manageme
 ### I am also:
 - ⭐ A co-organizer for [R-Ladies St. Louis](https://www.meetup.com/rladies-st-louis/)  
 - 🌟 A co-organizer of the [POWER](https://osf.io/ap3tk/) Data Management in Education Research Hub
-- 💛 A mom of a kiddo and rescue puppy
+- 💛 A mom of an elementary student and two rescue dogs
 - ☀️ A lover of spending time outdoors hiking, camping, and exploring
 
 ### I am interested in helping researchers with the following types of work:
