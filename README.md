@@ -1,4 +1,4 @@
-<img src='header.png' alt="banner"></img>
+<img src='logo-header.svg' alt="banner"></img>
 
 <p align="center">
 I am an independent data management consultant, providing research data management consulting, training, and direct services to improve organizational workflows (<a href="https://cghlewis.com">cghlewis.com</a>). I recently published a book with CRC Press titled <a href= "https://datamgmtinedresearch.com/">Data Management in Large-Scale Education Research</a>.
